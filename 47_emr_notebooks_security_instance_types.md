@@ -134,7 +134,4 @@ Based on the provided transcript, here are some practice exam questions along wi
    - Explanation: For a memory-caching application, a memory-optimized instance type would be ideal as it provides the high memory resources needed for caching operations.
 
 10. **Answer: C) IAM**
-    - Explanation: IAM (Identity and Access Management) is the primary tool for managing permissions and determining what actions a user can
-
- perform with Amazon EMR and other AWS resources, as stated in the transcript.
- 
+    - Explanation: IAM (Identity and Access Management) is the primary tool for managing permissions and determining what actions a user can perform with Amazon EMR and other AWS resources, as stated in the transcript.
